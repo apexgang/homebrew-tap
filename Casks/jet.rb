@@ -1,8 +1,8 @@
 cask "jet" do
-  version "1.0.6"
-  sha256 "3f6238ff3891f3a0e411174345dd2f6eebafc329856118b00636b8f3549812ab"
+  version "1.0.7"
+  sha256 "3fbe47c476bcdaa1e9507ee8c74ec8cb3538e15f2c91afc2fe889c4b822ec907"
 
-  url "https://github.com/apexgang/jet/releases/download/swift-v1.0.6/jet-app-1.0.6.dmg"
+  url "https://github.com/apexgang/jet/releases/download/swift-v1.0.7/jet-app-1.0.7.dmg"
   name "Jet"
   desc "Native workspace for Jet coding agent conversations"
   homepage "https://github.com/apexgang/jet"
